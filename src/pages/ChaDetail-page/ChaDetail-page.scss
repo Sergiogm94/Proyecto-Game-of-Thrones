@@ -1,0 +1,60 @@
+.textcha{
+    font-family: GoT;
+    color: white;
+}
+.centrocha{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 1px solid yellow;
+}
+.h1chadetail{
+    display: flex;
+    flex: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: 1;
+    word-spacing: 10px;
+}
+.imgchadetail{
+    width: 190px;
+}
+.h2cha{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+    font-size: 30px;
+    font-weight: 1;
+}
+.infochadetail{
+    display: flex;
+    flex: wrap;
+    justify-content: space-around;
+    text-align: center;
+}
+.tamaño{
+    width: 200px;
+}
+.detalleescudo{
+    width: 150px;
+}
+
+.back{
+    color: white;
+    background-color: black;
+    border:none;
+    margin-left: 125px;
+    font-family: GoT;
+    padding-top: 30px;
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.mezclaBotones {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

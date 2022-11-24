@@ -1,0 +1,59 @@
+.casasPage{
+    background-color: black;
+    height: 100vh;
+}
+   .simplebar-scrollbar::before {
+    background-color: white;
+    padding-top: 35px;
+}
+.textoN {
+    color: white;
+}
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 10px;
+    // padding: 20px;
+    padding-top: 0px;
+    padding-right: 102px;
+    padding-bottom: 0px;
+    padding-left: 102px;
+    // padding: 0px 102px 20px 102px;
+}
+.cardCha{
+    margin: 20px;
+    width: 220px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+    align-content:flex-start;
+    border: solid 1px red;
+}
+.textoN{
+    font-size: 30px;
+    color: transparent;
+    position: relative;
+    font-family: tipoGOT;
+    font-weight: 1;
+    // text-align: center;
+}
+.nombre{
+    width: 220px;
+    height: 300px;
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    text-align: center;
+    justify-content: center;
+}
+.nombre:hover{
+    .textoN{ color: white; background-color: goldenrod; width: 100%}
+    // .textoN{ color: white; background-color: rgba(0,0,0,0.5);
+    // width: 100%;}
+}
+.imgCha {
+    width: 110%;
+}

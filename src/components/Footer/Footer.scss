@@ -1,0 +1,21 @@
+.link {
+    background-color: transparent;
+    font-family: GoT;
+    text-decoration: none;
+    color:white;
+}
+.texto {
+font-weight: 100;
+}
+
+.divfooter{
+display: flex;
+justify-content: space-around;
+position: fixed;
+ bottom: 3%;
+ width: 100%;
+}
+
+.active {
+    text-decoration: underline;
+}

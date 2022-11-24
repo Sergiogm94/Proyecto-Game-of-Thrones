@@ -1,0 +1,70 @@
+.centro{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+.h1casdetail{
+    display: flex;
+    flex: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.imgcasdetail{
+    width: 225px;
+}
+.infocasdetail{
+    display: flex;
+    flex: wrap;
+    justify-content: space-around;
+    text-align: center;
+}
+.color{
+    color: white;
+    font-family: GoT;
+    letter-spacing: 1px;
+}
+.alto{
+    margin-top: 50px;
+}
+.izq{
+    margin-left: 125px;
+    margin-right: 125px;
+}
+.h2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+    font-size: 22px;
+    font-weight: 1;
+}
+.p{
+    width: 180px;
+    display: flex;
+    justify-content: center;
+    line-height: 30px;
+    font-size: 10px;
+}
+.centrar{
+    display: flex;
+    justify-content: center;
+}
+.h1{
+    font-size: 30px;
+    font-weight: 1;
+    word-spacing: 10px;
+}
+
+.back{
+    color: white;
+    background-color: black;
+    border:none;
+    margin-left: 125px;
+    font-family: GoT;
+    padding-top: 30px;
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}

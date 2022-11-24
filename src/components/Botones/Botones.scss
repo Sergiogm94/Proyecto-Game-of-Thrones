@@ -1,0 +1,42 @@
+.banderas{
+    height: 50px;
+    margin-right: 20px;
+    border-radius: 7px;
+    opacity: 85%;
+
+    &--home {
+        height: 35px;
+    }
+}
+.divbanderas{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 125px;
+    padding-top: 10px;
+}
+
+.castilloHome {
+    width: 35px;
+    height: 35px;
+    opacity: 80%;
+}
+
+.btn2{
+    height: 40px;
+    width: 70px;
+    background-image: url("https://lamaletadecarla.com/wp-content/uploads/2020/06/iconfinder_242_Ensign_Flag_Nation_spain_2634423.png");
+    background-size: 70px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-right: 15px;
+}
+
+.btn3{
+    height: 40px;
+    width: 70px;
+    background-image: url("https://images.vexels.com/media/users/3/163965/isolated/lists/5bb2c926d53cc59030477ec3ecb6d26a-icono-de-idioma-de-la-bandera-de-inglaterra.png");
+    background-size: 75px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
